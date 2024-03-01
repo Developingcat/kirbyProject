@@ -1,0 +1,108 @@
+/* CSS Document */
+
+
+
+
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Madimi+One&display=swap');
+
+/*CSS Reset */
+
+head, title, body, nav,  ul, li, main, footer, h2 {
+	margin: 0;
+	padding: 0;
+	border: 0; 
+}
+
+
+
+
+
+
+/* Header Style Rules */
+
+
+header {
+	background-image: url("../images/index.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 800px;
+	padding: 0px ;
+	margin: 0px auto 0px auto;
+}
+
+header h2 {
+	font-family: "Madimi One", "Indie Flower", "sans-seif";
+	font-size: 6.4em; 
+	color: #942955;
+}
+
+blockquote {
+	
+	font-family: "Indie Flower", "Madimi One","sans-seif";
+	font-size: 2.6em;
+	text-align: center;
+	
+}
+
+
+/*Navigation rules */
+
+nav {
+	width: 100%; 
+	margin : 0;
+	font:italic;
+	font-family: "Madimi One", "Indie Flower", "sans-seif";
+	text-align: center;
+}
+nav ul {
+	text-decoration: none;
+
+}
+nav li{
+	display:inline-block;
+	font-size: 2.5em;
+}
+
+
+/* Body Paragraph rules */ 
+
+body { 
+background: #C53580;
+border: 50px double #611033;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Footer rules*/ 
+
+footer {
+	background-image: url("../images/index.jpg");
+	background-size: cover;
+	min-height: 200px;
+	padding: 0px 0px 0px 0px; 
+} 
+
